@@ -1,0 +1,3 @@
+﻿  int-list-1-3.c
+C:\Users\ayaka\OneDrive\Desktop\int-list-1-3\int-list-1-3\int-list-1-3.c(14,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list-1-3.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list-1-3\x64\Debug\int-list-1-3.exe
