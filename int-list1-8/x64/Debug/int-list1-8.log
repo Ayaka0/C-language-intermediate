@@ -1,0 +1,7 @@
+﻿  int-list1-8.c
+C:\Users\ayaka\OneDrive\Desktop\int-list1-8\int-list1-8\int-list1-8.c(11,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\ayaka\OneDrive\Desktop\int-list1-8\int-list1-8\int-list1-8.c(32,10): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 'D' があります
+C:\Users\ayaka\OneDrive\Desktop\int-list1-8\int-list1-8\int-list1-8.c(32,48): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+C:\Users\ayaka\OneDrive\Desktop\int-list1-8\int-list1-8\int-list1-8.c(32,48): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\ayaka\OneDrive\Desktop\int-list1-8\int-list1-8\int-list1-8.c(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list1-8.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list1-8\x64\Debug\int-list1-8.exe
