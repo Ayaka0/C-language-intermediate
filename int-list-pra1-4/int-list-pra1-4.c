@@ -1,0 +1,49 @@
+#include<time.h>
+#include<stdio.h>
+#include<stdlib.h>
+
+#define MAX_STAGE 10 //ç≈ëÂì¸óÕâÒêî
+
+int main(void)
+{
+	srand(time(NULL)); //óêêîÇÃéÌÇê›íË
+	int ans;
+	int num;
+	//int stage = 10;
+	int no; //ì«Ç›çûÇÒÇæíl
+	int remain = MAX_STAGE;	//écÇËâÒêî
+
+	//3ÇÃî{êîóêêîÇ™èoÇÈÇ‹Ç≈åJÇËï‘Ç∑
+	do {
+		num = 3 + rand() % 1000; //3à»è„999à»â∫ÇÃóêêîê∂ê¨
+	} while (num % 3);
+	
+	printf("3Å`999ÇÃêÆêîÇìñÇƒÇÊÇ§ÅB\n");
+
+
+	do {
+		printf("écÇË%dâÒ,Ç¢Ç≠Ç¬Ç©Ç»ÅF", remain);
+		scanf("%d", &ans);
+		remain--;
+
+		if (ans % 3 != 0)	//3ÇÃî{êîèoÇ»Ç¢èÍçá
+		{
+			printf("3ÇÃî{êîÇ≈ÇÕÇ»Ç¢ÇÃÇ≈èIóπ\n");
+			break;
+		}
+		else
+			if (ans > num)
+				printf("Ç‡Ç¡Ç∆è¨Ç≥Ç¢ÇÊ\n");
+			else if (ans < num)
+				printf("Ç‡Ç¡Ç∆ëÂÇ´Ç¢ÇÊ\n");
+	} while (ans  != num && remain < MAX_STAGE);
+
+	return 0;
+}
+
+
+
+
+//ì¸óÕÇ≥ÇÍÇΩílÇ™3ÇÃî{êîÇ≈Ç»Ç¢èÍçáÅAÉQÅ[ÉÄèIóπÇµÅAçƒì¸óÕ
+
+//ì¸óÕÇ≥ÇÍÇΩílÇ™3ÇÃî{êîÇ»ÇÁÅAîªíËåãâ ï\é¶
