@@ -8,7 +8,7 @@ int main(void)
 	int w, p;	//全体と小数部の桁数
 
 	printf("実　数　値："); scanf("%lf", &x);
-	printf("全体の桁数："); scanf("%d", &w);
+	printf("全体の桁数："); scanf("%d", &w);	//左からの空白部分も含めての全体の桁数
 	printf("小数部の桁数："); scanf("%d", &p);
 
 	printf("%*.*f\n", w, p, x);
