@@ -1,0 +1,5 @@
+﻿  int-list3-2.c
+C:\Users\ayaka\OneDrive\Desktop\int-list3-2\int-list3-2\int-list3-2.c(9,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\ayaka\OneDrive\Desktop\int-list3-2\int-list3-2\int-list3-2.c(21,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list3-2\int-list3-2\int-list3-2.c(48,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list3-2.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list3-2\x64\Debug\int-list3-2.exe
