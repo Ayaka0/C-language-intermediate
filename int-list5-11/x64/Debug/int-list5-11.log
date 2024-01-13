@@ -1,0 +1,8 @@
+﻿  int-list5-11.c
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(29,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(107,14): warning C4047: '関数': 間接参照のレベルが 'int' と 'char [2]' で異なっています。
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(107,10): warning C4024: 'putchar': の型が 1 の仮引数および実引数と異なります。
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(63,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list5-11\int-list5-11\int-list5-11.c(86,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list5-11.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list5-11\x64\Debug\int-list5-11.exe
