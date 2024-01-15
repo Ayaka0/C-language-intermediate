@@ -1,0 +1,7 @@
+﻿  int-list6-2.c
+C:\Users\ayaka\OneDrive\Desktop\int-list6-2\int-list6-2\int-list6-2.c(11,9): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xe5' があります
+C:\Users\ayaka\OneDrive\Desktop\int-list6-2\int-list6-2\int-list6-2.c(18,8): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+C:\Users\ayaka\OneDrive\Desktop\int-list6-2\int-list6-2\int-list6-2.c(18,8): message : プレースホルダーとそのパラメーターには 6 の可変個引数が必要ですが、7 が指定されています。
+C:\Users\ayaka\OneDrive\Desktop\int-list6-2\int-list6-2\int-list6-2.c(25,23): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list6-2\int-list6-2\int-list6-2.c(26,26): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list6-2.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list6-2\x64\Debug\int-list6-2.exe
