@@ -1,0 +1,8 @@
+﻿  int-list6-4.c
+C:\Users\ayaka\OneDrive\Desktop\int-list6-4\int-list6-4\int-list6-4.c(5,7): warning C4273: 'asctime': dll リンケージが一貫していません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h(121,24): message : 'asctime' の以前の定義を確認してください
+C:\Users\ayaka\OneDrive\Desktop\int-list6-4\int-list6-4\int-list6-4.c(15,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     ライブラリ C:\Users\ayaka\OneDrive\Desktop\int-list6-4\x64\Debug\int-list6-4.lib とオブジェクト C:\Users\ayaka\OneDrive\Desktop\int-list6-4\x64\Debug\int-list6-4.exp を作成中
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+C:\Users\ayaka\OneDrive\Desktop\int-list6-4\x64\Debug\int-list6-4.exe : fatal error LNK1120: 1 件の未解決の外部参照
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" はコード 1120 を伴って終了しました。
