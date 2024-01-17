@@ -1,0 +1,5 @@
+﻿  int-ist6-9.c
+C:\Users\ayaka\OneDrive\Desktop\int-list6-9\int-list6-9\int-ist6-9.c(30,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list6-9\int-list6-9\int-ist6-9.c(31,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list6-9\int-list6-9\int-ist6-9.c(32,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list6-9.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list6-9\x64\Debug\int-list6-9.exe
