@@ -1,0 +1,4 @@
+﻿  int-list6-11.c
+C:\Users\ayaka\OneDrive\Desktop\int-list6-11\int-list6-11\int-list6-11.c(58,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list6-11\int-list6-11\int-list6-11.c(59,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list6-11.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list6-11\x64\Debug\int-list6-11.exe
