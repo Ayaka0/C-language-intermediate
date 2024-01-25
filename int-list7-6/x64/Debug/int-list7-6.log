@@ -1,0 +1,4 @@
+﻿  int-list7-6.c
+C:\Users\ayaka\OneDrive\Desktop\int-list7-6\int-list7-6\int-list7-6.c(15,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list7-6\int-list7-6\int-list7-6.c(21,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  int-list7-6.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list7-6\x64\Debug\int-list7-6.exe
