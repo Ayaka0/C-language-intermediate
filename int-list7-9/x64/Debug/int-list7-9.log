@@ -1,0 +1,4 @@
+﻿  int-list7-9.c
+C:\Users\ayaka\OneDrive\Desktop\int-list7-9\int-list7-9\int-list7-9.c(12,2): warning C4003: 関数に似たマクロ呼び出し '__crt_va_start' の引数が不足しています
+C:\Users\ayaka\OneDrive\Desktop\int-list7-9\int-list7-9\int-list7-9.c(12,2): error C2224: '.sw' : 左側が構造体または共用体型ではありません。
+C:\Users\ayaka\OneDrive\Desktop\int-list7-9\int-list7-9\int-list7-9.c(12,2): error C2059: 構文エラー: ')'
