@@ -1,0 +1,2 @@
+﻿  int-list7-12.c
+C:\Users\ayaka\OneDrive\Desktop\int-list7-12\int-list7-12\int-list7-12.c(8,9): fatal  error C1083: include ファイルを開けません。'getputch.h':No such file or directory
