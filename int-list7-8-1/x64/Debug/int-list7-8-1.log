@@ -1,0 +1,6 @@
+﻿  int-list7-8-1.c
+C:\Users\ayaka\OneDrive\Desktop\int-list7-8-1\int-list7-8-1\int-list7-8-1.c(11,12): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\ayaka\OneDrive\Desktop\int-list7-8-1\int-list7-8-1\int-list7-8-1.c(23,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list7-8-1\int-list7-8-1\int-list7-8-1.c(25,5): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list7-8-1\int-list7-8-1\int-list7-8-1.c(27,6): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  int-list7-8-1.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list7-8-1\x64\Debug\int-list7-8-1.exe
