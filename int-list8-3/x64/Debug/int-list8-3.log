@@ -1,0 +1,7 @@
+﻿  int-list8-3.c
+C:\Users\ayaka\OneDrive\Desktop\int-list8-3\int-list8-3\int-list8-3.c(40,35): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+C:\Users\ayaka\OneDrive\Desktop\int-list8-3\int-list8-3\int-list8-3.c(40,35): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\ayaka\OneDrive\Desktop\int-list8-3\int-list8-3\int-list8-3.c(21,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list8-3\int-list8-3\int-list8-3.c(27,13): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\ayaka\OneDrive\Desktop\int-list8-3\int-list8-3\int-list8-3.c(33,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  int-list8-3.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list8-3\x64\Debug\int-list8-3.exe
