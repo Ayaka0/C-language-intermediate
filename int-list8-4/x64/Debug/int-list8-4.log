@@ -1,0 +1,7 @@
+﻿  int-list8-4.c
+C:\Users\ayaka\OneDrive\Desktop\int-list8-4\int-list8-4\int-list8-4.c(22,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\ayaka\OneDrive\Desktop\int-list8-4\int-list8-4\int-list8-4.c(44,37): warning C4047: '!=': 間接参照のレベルが 'int' と 'char *' で異なっています。
+C:\Users\ayaka\OneDrive\Desktop\int-list8-4\int-list8-4\int-list8-4.c(34,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list8-4\int-list8-4\int-list8-4.c(38,13): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\ayaka\OneDrive\Desktop\int-list8-4\int-list8-4\int-list8-4.c(44,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  int-list8-4.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list8-4\x64\Debug\int-list8-4.exe
