@@ -2,7 +2,7 @@
 /*getch / putch—p‚Ì‹¤’Êƒwƒbƒ_"getputch.h"*/
 #ifndef __GETPUTCH
 
-#define __GETPTCH
+#define __GETPUTCH
 #if defined(_MSC_VER) || (__TURBOC__) || (LSI_C)
 
 /*MS-Windows / MS-DOS(Visual C++, Borland C++, LSI-C 86 etc)*/

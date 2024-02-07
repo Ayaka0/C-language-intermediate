@@ -17,7 +17,7 @@ double get_data(void)
 	FILE* fp;
 	double best;	//最高得点
 
-	if ((fp = open(dtfile, "r")) == NULL) {
+	if ((fp = fopen(dtfile, "r")) == NULL) {
 		printf("本プログラムを実行するのは初めて。\n\n");
 		best = DBL_MAX;
 	}
@@ -58,7 +58,7 @@ double go(void)
 
 	printf("欠けている数字を見つけよう\n");
 	printf("スペースキーで開始します。\n");
-	while (getch() != ' ');
+ 	while (getch() != ' ');
 	;
 
 	time_t start = time(NULL);
@@ -80,6 +80,7 @@ double go(void)
 		}
 
 		for (int i = 0; i < 8; i++)	//全要素を表示
+			printf("%d", a[i]);
 			printf(":");
 		fflush(stdout);
 		int no;	//読み込んだ値

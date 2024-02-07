@@ -1,15 +1,14 @@
 ﻿  int-list9-2.c
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(20,12): warning C4013: 関数 'open' は定義されていません。int 型の値を返す外部関数と見なします。
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(20,29): warning C4047: '=': 間接参照のレベルが 'FILE *' と 'int' で異なっています。
 C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(28,10): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xe5' があります
 C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(28,99): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
 C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(28,99): message : プレースホルダーとそのパラメーターには 5 の可変個引数が必要ですが、6 が指定されています。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(20,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(40,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(44,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(61,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(87,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(89,5): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(91,6): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(117,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
-C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(128,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(61,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(88,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(90,5): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(92,6): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(118,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-2\int-list9-2\int-list9-2.c(129,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   int-list9-2.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list9-2\x64\Debug\int-list9-2.exe
