@@ -1,0 +1,4 @@
+﻿  int-list9-6.c
+C:\Users\ayaka\OneDrive\Desktop\int-list9-6\int-list9-6\int-list9-6.c(14,14): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-6\int-list9-6\int-list9-6.c(41,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list9-6.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list9-6\x64\Debug\int-list9-6.exe
