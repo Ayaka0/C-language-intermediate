@@ -1,0 +1,7 @@
+﻿  int-list9-7.c
+C:\Users\ayaka\OneDrive\Desktop\int-list9-7\int-list9-7\int-list9-7.c(18,26): warning C4047: '関数': 間接参照のレベルが 'const char *' と 'char' で異なっています。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-7\int-list9-7\int-list9-7.c(18,20): warning C4024: 'fopen': の型が 1 の仮引数および実引数と異なります。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-7\int-list9-7\int-list9-7.c(28,16): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\ayaka\OneDrive\Desktop\int-list9-7\int-list9-7\int-list9-7.c(18,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\int-list9-7\int-list9-7\int-list9-7.c(22,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  int-list9-7.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\int-list9-7\x64\Debug\int-list9-7.exe
